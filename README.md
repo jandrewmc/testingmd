@@ -2,4 +2,4 @@
 
 ## Here is a test markdown file with a picture
 
-![Clipboard](/common/picture.png "Clipboard")
+![Clipboard](/master/picture.png "Clipboard")
